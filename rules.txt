@@ -1,0 +1,319 @@
+☢ Global Rules
+
+The rules for our community apply to each of the servers we own. By joining one of our servers, you agree to respect all players and admins, play fairly, and be mindful of the rules and regulations. These rules are always subject to change and you are a guest on our servers; By playing here It is your responsibility to check them and follow them. If you have a problem with any of our staff or our rules, feel free to bring it up with other admins or submit a post to the forums. We only own the servers, not the players.
+
+☢Roleplay
+
+Roleplaying, or RP refers to literally playing a role. On this server, the role that you play in the wasteland is up to you. However, there are some general guidelines for proper roleplay that must be enforced to ensure that everyone playing can equally enjoy their own roleplay.
+
+If you'd like more information on how to roleplay, check out the guide on our wiki. The guide can be opened by pressing f1 in game, and selecting it from the main page. The web-page for the guide can be found here: https://sites.google.com/site/frostburntwiki/player/roleplay
+
+Common sense
+
+You shouldn't have any problems with the roleplay rules as long as you have common sense. Don't do anything in-game that you wouldn't do normally in real life, such as sitting on top of of player's head, making floating signs. driving cars backwards or building non RP-friendly structures. It should be easy as it's just common sense.
+
+Roleplay Chat
+
+In terms of roleplay, there are several types of chats you can use to demonstrate how you are talking. these types can be specified by chat prefixes typed before your message.
+
+'/me' - add this before your message to specify an action your character is doing in roleplay. For example; typing /me warms his hands over the fire will print to chat: John Smith warms his hands over the fire.
+'.//', '/looc', or '[[' - Local out of character, typing in this will show to other players near you that you are not talking in terms of the current roleplay. Information conveyed this way is invisible to your character in terms of rp, and is only there for the players to communicate to each other.
+'/roll #' - An optional function, roll allows you to roll a random number between 1 and 100, or whatever number you specify after the roll. The use of roll can be used for determining random outcomes of things in roleplay, but It is not required to use rolls for general actions, IE, combat, however it can be used consensually between to characters roleplaying.
+'/y', '/yell' - Yelling, your voice is projected and reaches farther away, it also shows conviction in what you're saying, and is generally used when your character is actually yelling.
+'/w', '/whisper' - Whispering, your character speaks softly, only reaching people who you have direct line of sight and in close proximity. Useful for conveying private information.
+General Rules
+
+A note on mic chat - Mic chat is generally reserved for in character use when in public areas, but can be used for OOC when in private areas such as an owned building.
+Sign usage - You can create large signs to mark your buildings to the public, but as far as posting advertisements goes, using these signs is overkill. If you want to advertise your shop, your business, or you're trying to buy/sell a particular item, instead of posting a giant 
+neon sign on someone else's building, make a job board and attach one of the in-game note items to it.
+
+
+Courtesy towards  Roleplaying Staff
+
+Staff members work really hard on keeping the server a fun place to play and roleplay, and sometimes they like to roleplay themselves. If you see a staff member in-game, please do not approach staff members and question them about the state of the server out of nowhere.
+The staff of this server were selected because they know how to be un-biased. When a staff member is roleplaying, you don't need to be afraid of them or hold the same respect for their roleplay character as you do for the staff member; don't give them special treatment because they are staff, treat them just like anyone else, it's how they'd prefer it.
+☢Murder
+
+Random Death Match
+
+Random DeathMatch, or RDM, is when you kill another player for no reason. This is not allowed; players must have a legitimate reason to kill someone.
+
+Robots have the same RDM protection as players. If you attack it, it will kill you and mark you as a permanent target until cleared by the robot's owner, anything lost to to the robot killing you is your fault for attacking it. Attacking or killing a robot for no reason is the same as doing so to the player. Players are only meant to fight them in raids or wars.                                  
+
+Acceptable reasons to kill a person
+Fighting over resource piles or dropped items. You must warn the person in TEXT, and you must have been the first person at the resource pile. Someone cannot walk up to someone already scavenging a pile and threaten them to leave.
+Raiding a base.
+Defending an ally/friend.
+A player has stolen something from you (Weapons, vehicles, etc.).
+Someone is attempting to propkill. (Although contacting an admin would be more beneficial)
+Someone is being a general nuisance, such as micspamming or following you.
+You have given a player resources to create something for you, and they decide not to make you the item.
+Someone is opening a death suitcase dropped by a player (not an NPC) - If you have no intention of defending the case for anyone else and you're just bating people to it to kill them when they go grab it, you will be banned.
+Someone is putting you at risk by claiming you offended them in some way, IE, claiming to others that you stole form them, or putting a hit on you, however, you must personally witness this yourself.
+Misc:
+
+While you can steal someone's car, if you do you cannot retaliate in any way when they attack you until you have left the car and have been away from it for over a minute. Stealing someone's car and then killing them after they shoot at you would be considered baiting. You can only retaliate if they have shot at you when more than one minute has passed. In relation to this, if someone steals your car, you're free to kill that person for the next five minutes, however, just to clarify, they will be able to retaliate, but only if you attacked them AFTER one minute has passed. Once five minutes has passed, a bounty hunter can still do the job. This applies to any other items that are out in the open as well.
+You may not kill anyone near spawn or "spawn kill"
+You may only rob/mug a base, not a player out in the wasteland. Approaching a player claiming you are there to rob them is not a valid reason to kill them.
+Under no circumstances can you run someone over with your car to kill them.
+You may kill someone if they lead hostile npcs to you/town.
+Revenge Killing
+
+This has some tight regulations. You may revenge kill a player only for killing a community member/friend, but not yourself due to NLR. the duration in which this lasts is up to 5 minutes after they are murdered, or until you die. You can extend this time if you hire a Bounty Hunter/Hitman. You may not revenge kill a revenge kill.
+
+New Life Rule
+
+New Life rule, or NLR means that when you die you may not go back to where you were if you were killed for about five minutes. If you are RDM'd contact an admin.
+
+Under no circumstances may you kill someone for breaking NLR. If you do, you will recieve the same punishment as you would for RDM. If someone breaks NLR, you contact an admin.
+Community warfare
+
+Wars are when 2 factions enter a war from the community warfare menu, during which time you may kill other members on sight.
+The acts of war system is helpful, but a bit flawed currently and is being worked on. In the meantime, the system works like this: If a member from one faction kills the member of another faction, that faction can declare war and a war will start, however, there are some circumstances where this is not valid. One of which is if one faction is raiding another faction. If a faction member who was raiding gets killed and an act of war is generated, it is not valid and must be deleted. In addition: There is no NLR in war. Meaning that if you are kill by a warring faction, you may immediately go back to where you were killed and continue fighting.
+
+You may enter a war for the following reasons:
+
+If you have been raided by the other community
+If you or the other community agrees to the war
+Or for a RP related reason (Must be approved by an admin)
+If a war has been going on for more then 48 hours and 1 party wishes to end the war, you must accept or staff may have to get involved
+Baiting other factions into war is not allowed and will have severe consequences, (An admin will decide if you were baiting)
+Deserters.
+
+If you leave a community that is in a war with another faction, don't think you're safe.
+
+You are only considered a deserter if you know the reason for the war, or it has recently started. otherwise, leaving the community will not mark you as a deserter.
+If you are a known deserter, you can be killed by all of the factions that where involved in the war that you avoided.
+The timeframe in which you can be killed for deserting is the duration of the war you avoided.
+You can have one hit placed on you by the faction you left, even after the war you avoided has ended.
+Seriously, don't join a faction if you aren't willing to fight with said faction.
+If you are the owner of a community and you disband it to avoid a war, you; the leader of the faction, may be killed for the remainder of the time the war had until ending. (Wars last for two days unless both sides choose to extend it)
+Bounty Hunters/Mercenaries
+
+You are allowed to work as a mercenary, but only if you are the wastelander class.
+Please make sure that the person you're killing is being killed for a valid reason.
+In the event that you do kill someone for an invalid reason, you may be held accountable depending on the situation.
+Unless it's faction war related, mercenary contracts and reasons for hiring a mercenary can not carry over map changes or rejoins.
+Contracts also expire if the Mercenary, or mercenary party dies while performing the hit.
+If you die while performing your contract and you have partners continueing it, you cannot join them.
+One cannot place a contract on the same person more than once within the hour.
+Mercenary hiring, much like placing hits, must be completed in TEXT ONLY. If there are no text logs found, the employer and the mercenary will be banned.
+Placing hits
+
+You can hire a mercenary to perform a "hit" on someone to kill them, make sure that you are putting a hit on someone for a valid reason
+
+You can only put a hit on someone for a roleplay related reason. The placing of the hit  MUST all be in text. Here are some examples of reasons you would place a hit on someone:
+
+Someone threatens you over resources when you are trying to scavenge.
+Someone has Raided you and you know who it is.
+Your faction is at war with their faction.
+The minimum of payment required to issue a hit on someone must be equal to or above 30 of every resource.
+
+Combat Logging
+
+Combat logging is when you disconnect in the middle of combat or after stealing something.
+
+If you do this, you are subject to severe punishment, such as loss of all equipped weapons or a temporary ban.
+If steal more than 1000 of any resource or items of equivalent worth in any situation, you cannot disconnect for 30 minutes after doing so or it is considered combat logging and will result in a week ban.
+If you are in any sort of conflict (PVP, PVE or otherwise) you cannot just put something in your inventory from your equipment to save it. This rule is temporary until I add a delay to un-equipping items.
+Repeated offenses will result in a permanent ban.
+Kidnapping
+
+You may kidnap a player, but you must have a reason. If you are kidnapped, you may not log out unless a staff member allows it or you have escaped. Acceptable reasons for kidnapping a player:
+
+Player is an enemy of your faction.
+All valid reasons for killing someone listed under "Murder" (Player has shot you, stole, etc.)
+You have an RP reason.
+You may not do the following with your kidnapees:
+
+Force them to kill players or things in general.
+Kidnap someone with the intention of killing them.
+Kidnap someone and force them to give you resources/items with the intention of killing them if they do not (This is already not allowed, under mugging. All players that were discovered doing this before the rule was listed under kidnapping WILL be punished.)
+☢Basing
+
+Bases
+
+Bases must have at least one entrance that general players can access. Bases in which the Climb SWEP is required to access are not allowed.
+
+There is a very closely regulated set of restrictions put on bases. They are:
+
+You cannot build a base that is made to be unraidable. What constitutes as unraidable is anything that is designed to create "fish in a barrel" sort of scenarios. This means that your base can never be designed so that someone inside of the base can hurt someone who is attempting to pick a lock/crack a keypad. You are also not allowed to create tight hallways for your base. Your base entrance must allow two people walking next to each other to enter at once.
+You can only have a maximum of three doors to enter a base. This includes fading doors, hydraulic and winch doors, and spawned doors.
+Bases that use boxes that go to the top of the skybox are not allowed.
+You may not use materials that are 1 sided unless you can not fire from them. (Such as fences and other props you can shot though)
+You cannot stack doors on top of each other. If you are caught doing this, they will instantly be removed, no exceptions.
+Tunnel entrances which require you to crouch for more than 5 seconds are not allowed.
+Any base using no-collided props to trap players or prevent them from shooting you while allowing you to fire at them is against the rules.
+It is not allowed to build headglitched security which allows you to kill a person raiding, but blocks them in a no-colided prop from killing you.
+You are not allowed to use no-collide all props as secret doors, unless you already have a main door that is easily visible.
+You may not have fake keypads, and working ones must be placed in sight of the door it controls and near by.
+You can not use Fading Doors as any sort of tactical cover. If you make a fading door and unfade it to shoot through it may be removed without warning.
+Doors with any sort of auto close system must stay open for a minimum of 10 seconds, if someone reports a button/door which does not adhere to this it may be removed without warning.
+No private bases are allowed within the confines of the spawn area since bases here conflict with the raiding nlr, and spawn killing rules.
+No odd textures allowed on bases, such as fullbright bases. Use realistic materials.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Public Outposts  
+
+Public outposts are bases that are open for public use, whether it be by admission or for free, a public outpost can not be raided unless there are locked doors with raidable objects behind them (Check Raids section for raidable objects).
+You must put a sign stating it as a public outpost. signs that say things like Bars/Shops/Stores count as public outposts.
+If you place things down such as stockpiles or lockers in a public outpost your outpost will become raid-able (Do not place down valuables in public outposts!)
+Once any form of raid-able items are placed down in your outpost it is no longer considered a public outpost and is bound by the normal base rules. This means that the outpost is raidable, and everyone in the outpost may attack and kill the raiders.
+If your public outpost plans on charging admission it cannot be more then 10 of each resource. If you are charging more than that, the outpost is raidable.
+In-Map Towns
+
+If there is a map with a town built in to it, the town cannot be considered private and locked unless every building is owned and all residents of the town agree upon it.
+
+Bars or other sections of the map that could pass as bars are only allowed to be owned by cultivators and must be public. (You may charge a max of 10 resources for admission. If you charge more, you can be raided.)
+Bars cannot be raided and they cannot have valuables such as stockpiles or community lockers in them.
+Map towns are defined by a collection of buildings outside that are built in to the map.
+Bunkers, caves or underground areas are not towns; These areas can be made private. However, this does not apply if the entire map is underground.
+Door ownership
+
+You can own a max of 10 doors, but that doesn't mean you can own 10 bases.
+
+You can only own one base on the map. If you have more than one, the one which has the least amount of props or players in it will be unowned without warning.
+Water sources
+
+Some maps we play on have very few water sources. If the amount of water sources where players can drink and can fill their water bottles is few, then these sources cannot be privatized; You can not build private bases around water sources and everyone must be given equal access to water.
+
+Bases that are not allowed
+
+Maze Bases:  These are bases in which raiding parties are required to jump over or crouch under obstacles and maneuver around props before entering. These create a "fish in a barrel scenario" and are against the rules. Players caught with maze bases will have the base removed without question.
+Airlock Bases:  These are bases in which the person raiding is required to crack or lockpick a door that closes another one behind them, and so on. These types of bases are not allowed.
+Base related tools
+
+Sonic Miners:  Sonic Miners are a tool that automatically produce resources at the cost of energy. These must be placed on the map ground; you may not place them inside a base or on the roof.
+Offensive Comments/Insults
+
+You cannot kill people for insulting you, or if you perceive it as an insult. The only time you can kill someone for insulting you is if they flat out call you offensive names and don't let up on it. If they call you a simple name or say something offensive and walk off, that is not a reason to kill. If they persist, like following you around, consistently dropping one liners and running off, or continue to constantly talk about you in public places, tell an admin. If they are doing it in your base, and they refuse to leave, you can kill. If someone is blatantly disregarding this rule and consistently acts like an asshole or a smart ass in small ways, or again, they drop small one liners and run off over and over (aka they know this rule exists and they are trying to tip toe around it), they can be killed.
+☢Props
+
+Prop Use
+
+Props are strictly for building, and nothing else. Using a prop for anything other than this can and will result in temporary or even permanent removal from the server.
+
+Prop Restrictions
+
+Killing anyone using a prop is absolutely not allowed. We have zero tolerance for propkillers in this server. You will be instantly removed.
+Using props to block the doors of your base where no one can get in or out is against the rules. Any bases involving propblock will have the offending prop(s) removed without warning.
+Using a prop to "surf" or push others in the air or reach someplace that other players cannot get to is not allowed.
+Spamming props to minge or crash is not allowed.
+Prop climbing into/on someone's base is not allowed.
+Using props as a ramp/staircase to get somewhere usually unreachable IS allowed, but if you are someplace that only admins can reach you, you will be asked to move.
+☢Raids
+
+Raiding
+
+Raiding is when you break into another person's base. In order to accomplish a raid, you need to follow some simple guidelines:
+
+You must call raid before killing someone, it is mandatory to use chat and the /y before raiding
+You cannot pick up any raidable objects inside a base while you are being raided.
+You cannot raid a base that is in construction (If you place valuables and a keypad/locked door on a base it is considered finished and you may be raided)
+Raidable objects/valuables are the following items: Stockpiles, Lockers,  Grubs, Thumpers (Only raidable if there is a keypad/fading door covering the scrap output OR the miner is in a private base).
+You may not raid a base solely if it has a keypad.
+NON-Raidable objects/valuables are the following items: Items that have been dropped on the ground during trades are not raidable if it was done inside a base. Example: If 2 people are standing inside a shop, and they are actively trading items by dropping them on the ground, a third person cannot raid the base because of those objects. PLANTS ARE NOT RAIDABLE.
+Silent Raids are when you sneak into someone's base without them noticing you. These are acceptable. However if you are caught during a silent raid, you must either leave immediately or declare a raid, you can not kill anyone during a Silent raid until you have called raid in chat.
+If you are killed during a raid it is still considered over and you may not raid that base again for 1 hour
+You cannot spawn any props or large items (cars, storage lockers) during raids. You can set up cover, but it must be done before raid is declared.
+You cannot raid single small locked rooms unless you know there's something on the other side worth raiding (Like hearing grubs or actually seeing the raidable object).
+☢General
+
+Common Sense
+
+Do not make factions with the name of other prominent groups from other games/movies. They will be deleted.
+
+All warnings must be given in text chat unless the warned party is confirmed to be able to hear you (Responding to your voice, for instance). Still it's better to use chat so that the warning's existence can be verified.
+
+Don't Physgun your lockers into the sky when they are being raided, but this should go without saying.
+
+This should go without saying, but if something seems like an exploit or you would expect it to be against the rules, feel free to address it with an admin. Exploiting it without doing so may result in temporary, or maybe even permanent removal from the server. A good rule of thumb is just to not do anything that wouldn't be remotely possible in reality, IE, Spawning a car in the middle of a raid and using it to drive off the roof of a building.
+
+Do not ask for events. Doing so will result in you being put at the jurisdiction of the staff that see you put it in admin chat.
+
+Do not tell players to leave events. Doing so will put you at the jurisdiction of the staff member dealing with it.
+
+Account usage
+
+you are responsible for everything that happens with your account, if your little brother or a friend breaks the rules while using your account and your account is punished, the punishment will stay.
+
+Exploits
+
+There is a zero tolerance for exploit on this server. If you find any sort of Exploit, whether it be duping or damage multiplier related, you must report it. If you do not report it, or you exploit it to enrich yourself, you will be found and banned. We have logs for everything, so if you like this server don't push your luck. Besides, you'll be rewarded for reporting it.
+
+Anonymous Staff
+
+It's not unheard of that our staff members try to be anonymous in their identity for whatever reason. In some cases they may pretend to be a new player or hide their name on the server. This means that if you know an admin by steam name, it is not a good idea to cal them by it. Doing so will subject you to a limited, but apparent punishment. Also, figuring out who a player is or making it your game to figure out if a player is an undercover admin will result in removal from the server. We don't appreciate it, and you don't need to do it.
+
+Annoying Players
+
+Some players have a habit of wanting to ruin roleplay for others, which is why we leave it to our community to deal with these people. If a player is doing one of the following you may kill them without a roleplay reason after a warning, or call an admin for help:
+
+Excessive microphone spamming.
+Any sort of spamming, which includes text chat spamming, flashlight spamming or toolgun spamming.
+Players spawning props in your base when asked to remove them.
+Players putting sprays in your base
+Teleporter
+
+Certain maps contain teleporters in place of doorways. These teleporters can carry both players and yells through them and can be owned and locked like any door. Still, due to the nature of them not being accessible in traditional means, they carry some limitations:
+
+You cannot have raidable objects such as grubs placed and active in these areas if they are in-door areas
+Make sure to yell raid like you would with any other base, yells are carried through the door, but you must be close to them.
+Character Customization - PAC3
+
+You can craft a item in the game to use player Appearance Customizer, otherwise known as "PAC3". With this tool you can build any character you want, but like with bases try and keep it reasonable. Please do not use trails or sun beams. Exploiting PAC in any way, which includes but is not limited to making yourself invisible, giant or adding giant props will result in an instant unwarned kick. Repeated offense will result in a ban. Please refrain from using models from custom addons off the workshop. If someone else does not have the content, they will see a huge flashing error. if you see other's with custom models, they have taken extra steps to make that possible. Please refer to the PAC "help" section to learn how to do this.
+
+Do not alter your hitbox.
+Do not change your playermodel to anything other than a humanoid model.
+Do not use sunbeams.
+Do not use giant props.
+PAC parts are only to be used on your player and your possessions.
+ Sounds are permitted, as long as you know and understand how to use "sound levels" properly. If someone can hear your sound from far away, you need to remove it until you learn how to use them properly.
+Do not spam sounds or music.
+Changing your player into inanimate objects or into a position that hides you is not permitted. (Ex: Solid Snake "cardboard box" PACs are not allowed.)
+ Do not make yourself transparent or invisible under any circumstance. Violators of this rule will have PAC immediately revoked.
+"Effects" are prohibited unless the user knows and understands how to use them properly.
+"Trails" are prohibited unless the user knows and understands how to use them properly.
+Using the PAC camera to see through walls will result in immediate removal of PAC from user and possible suspension from server.
+You cannot PAC yourself as wearing in-game armors unless you are wearing an armor better than the one you are pacing as. As an example, you cannot PAC yourself as wearing a Hardsuit if you're wearing T-51. You can pac yourself as wearing T-51 if you're wearing a Hardsuit. This is for obvious reasons. However, you can PAC on PIECES of an armor (IE: Leg plates, Chestplates, Arm pieces, etc.). This only counts for pieces of body armor, you still have to wear the helmet.
+You cannot PAC on Event Armors unless you are wearing them. The current event armors are NCR Ranger, Tesla Hardsuit, Chinese Stealth Armor, Hellfire, and T-60. You may PAC on  certain event armor parts. (Ranger coat,, for example.)
+You cannot use publicly released PACs, such as CapsAdmin PACs, example PACs, and PACs that people release on Youtube that are widely used. Be original, make your own PAC like everyone else.
+You can  have companions on your PAC (Dogs, Eyebots, etc.), but it must be done correctly. This means that the animations are fine, it doesn't move around with your head,  It's not floating (Unless it's supposed to), etc.
+The PAC-related rules may be invalidated for you if given permission by a CSC or higher.
+
+Out Of Character
+
+Also refereed to as OOC, Out Of Character means means talking to other players on the global chat about content NOT related to roleplay. This can be done by putting "//" before a message. Any content that is discussed in OOC which pertains to roleplay or is for the use of an advantage over other players, is considered metagaming and is not allowed. Please use discretion when using OOC, and take care not to flood the chat. If you need to report something to an admin, please do not use OOC. Please start a message with a "@" instead of "//". Only admins can see this and it is a lot more noticeable. You could be ignored if you do not do this.
+
+As much as we'd like to allow everyone to be heard, there is a time and place. OOC is not the place most of the time. Please do not complain, post bug reports or make suggestions over OOC. This purpose is served by our forums at frostburnt.com. Please post your complaints and suggestions there, as bothering everyone else about it in OOC gets you nowhere and makes you look bad.
+
+Loss of Items
+
+Please do not ask for items to be returned to you for a bad reason, use common sense when asking for a refund. Admins are not always required to reimburse you, but we will try too if it is absolutely necessary or unfair to you, however these are some examples of when you won't be refunded:
+
+Someone taking your items due to any death.
+Being Raided.
+Death By Hunger.
+A Roleplay related death.
+Vending machines
+
+You are able to build vending machines that allow you to sell most items at a price you can specify. These vending machines can be placed anywhere on the map, but there are some regulations.
+
+Vending machines cannot be within 50 meters of a spawn point, vending machines violating this rule may be "moved".
+If you put a vending machine in someone else's property without permission, it will be "moved".
+You can only place items in the vending machine that you actually intend to sell. You are not permitted to use the vending machine to store items, IE, Put oranges  in the machine and try to sell it for 1000 of each resource. 
+Forum rules
+
+Here you will find some General Information you should probably know before posting
+
+No flaming.
+No bullying.
+Try not to derail threads.
+NSFW content should be put in a spoiler.
+You cannot advertise PNRP in-game items for sale for ooc goods.
+No spamming.
+Don't bump old threads without a good reason.
+No advertising other servers/communities.
+Signature/Avatar guidelines: not stupidly large, not NSFW.
+No double posting! (Warning: double posting will result in Mushroom throwing a shit storm Coront silently fixing it.)
+No posting things that have nothing to do with anything on serious topics (The forums are moderated and the posts will be removed).
+Do not use tinyurl links, they're a common source of viruses and will be deleted if they're used.
+Do not shitpost/generally be an asshole on serious threads (Mod apps, Ban Appeals, Player Reports, etc.). Doing this too much will result in being temp banned.
